@@ -1,0 +1,7 @@
+C:\Users\cordo\source\repos\Basic_C#_Programs\dailyReport\dailyReport\bin\Debug\dailyReport.exe.config
+C:\Users\cordo\source\repos\Basic_C#_Programs\dailyReport\dailyReport\bin\Debug\dailyReport.exe
+C:\Users\cordo\source\repos\Basic_C#_Programs\dailyReport\dailyReport\bin\Debug\dailyReport.pdb
+C:\Users\cordo\source\repos\Basic_C#_Programs\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.AssemblyReference.cache
+C:\Users\cordo\source\repos\Basic_C#_Programs\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.CoreCompileInputs.cache
+C:\Users\cordo\source\repos\Basic_C#_Programs\dailyReport\dailyReport\obj\Debug\dailyReport.exe
+C:\Users\cordo\source\repos\Basic_C#_Programs\dailyReport\dailyReport\obj\Debug\dailyReport.pdb
