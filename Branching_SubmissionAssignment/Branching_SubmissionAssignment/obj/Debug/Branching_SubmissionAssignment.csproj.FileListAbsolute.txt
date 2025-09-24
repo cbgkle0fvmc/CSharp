@@ -1,0 +1,7 @@
+C:\Users\cordo\source\repos\Basic_C#_Programs\Branching_SubmissionAssignment\Branching_SubmissionAssignment\obj\Debug\Branching_SubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\cordo\source\repos\Basic_C#_Programs\Branching_SubmissionAssignment\Branching_SubmissionAssignment\obj\Debug\Branching_SubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\source\repos\Basic_C#_Programs\Branching_SubmissionAssignment\Branching_SubmissionAssignment\bin\Debug\Branching_SubmissionAssignment.exe.config
+C:\Users\cordo\source\repos\Basic_C#_Programs\Branching_SubmissionAssignment\Branching_SubmissionAssignment\bin\Debug\Branching_SubmissionAssignment.exe
+C:\Users\cordo\source\repos\Basic_C#_Programs\Branching_SubmissionAssignment\Branching_SubmissionAssignment\bin\Debug\Branching_SubmissionAssignment.pdb
+C:\Users\cordo\source\repos\Basic_C#_Programs\Branching_SubmissionAssignment\Branching_SubmissionAssignment\obj\Debug\Branching_SubmissionAssignment.exe
+C:\Users\cordo\source\repos\Basic_C#_Programs\Branching_SubmissionAssignment\Branching_SubmissionAssignment\obj\Debug\Branching_SubmissionAssignment.pdb
