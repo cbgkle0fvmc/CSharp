@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\arraySubmissionProject\arraySubmissionProject\bin\Debug\arraySubmissionProject.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\arraySubmissionProject\arraySubmissionProject\bin\Debug\arraySubmissionProject.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\arraySubmissionProject\arraySubmissionProject\bin\Debug\arraySubmissionProject.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\arraySubmissionProject\arraySubmissionProject\obj\Debug\arraySubmissionProject.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\arraySubmissionProject\arraySubmissionProject\obj\Debug\arraySubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\arraySubmissionProject\arraySubmissionProject\obj\Debug\arraySubmissionProject.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\arraySubmissionProject\arraySubmissionProject\obj\Debug\arraySubmissionProject.pdb
