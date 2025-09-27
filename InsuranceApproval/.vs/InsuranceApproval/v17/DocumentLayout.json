@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\InsuranceApproval\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C545C4-8DB8-4A82-98CD-BE7415AB1E6B}|InsuranceApproval\\InsuranceApproval.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\insuranceapproval\\insuranceapproval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C545C4-8DB8-4A82-98CD-BE7415AB1E6B}|InsuranceApproval\\InsuranceApproval.csproj|solutionrelative:insuranceapproval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\InsuranceApproval\\InsuranceApproval\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceApproval\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\InsuranceApproval\\InsuranceApproval\\Program.cs",
+              "RelativeToolTip": "InsuranceApproval\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T01:06:36.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
