@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Iteration\Iteration\obj\Debug\Iteration.pdb
