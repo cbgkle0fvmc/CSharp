@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\MathAndComparisonOperator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0F506E-92ED-4C83-9F98-F1FA771D2595}|MathAndComparisonOperator\\MathAndComparisonOperator.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\mathandcomparisonoperator\\mathandcomparisonoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0F506E-92ED-4C83-9F98-F1FA771D2595}|MathAndComparisonOperator\\MathAndComparisonOperator.csproj|solutionrelative:mathandcomparisonoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\MathAndComparisonOperator\\MathAndComparisonOperator\\Program.cs",
+              "RelativeDocumentMoniker": "MathAndComparisonOperator\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\MathAndComparisonOperator\\MathAndComparisonOperator\\Program.cs",
+              "RelativeToolTip": "MathAndComparisonOperator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:28:58.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
