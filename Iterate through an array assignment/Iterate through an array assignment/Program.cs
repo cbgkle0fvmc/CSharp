@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -58,11 +59,11 @@ namespace Iterate_through_an_array_assignment
                 }
             }
             //Part 4. Step 3. Display the index of the list item that contains userInput
-            for (int j = 0;j < matchingWords.Count;j++)
+            for (int j = 0; j < matchingWords.Count; j++)
             {
                 if (matchingWords[j].Contains(userInput))
                 {
-                    Console.WriteLine("Index " + j + " contains user Input" );
+                    Console.WriteLine("Index " + j + " contains user Input");
                 }
             }
             //Part 4. Step 4: Add code to check if the user put in text that isn't on the list and, if they did, tell 
@@ -79,10 +80,77 @@ namespace Iterate_through_an_array_assignment
                 foreach (string word in matchingWords)
                 {
                     Console.WriteLine(word);
+                    break;
                 }
             }
 
 
+            //PART 5. 
+            //1. A list of strings that has at least two identical strings in the list. 
+            List<string> stringArray3 = new List<string> { "Identical", "Identical", "First", "Second", "Third", "Coffee" };
+
+            //Ask the user to select text to search for in the list.
+            Console.WriteLine("Please enter text to search for like terms in list.");
+            string userInput3 = Console.ReadLine();
+
+            //create empty list 
+            List<string> duplicateList = new List<string>();
+
+            //2. Create a loop that iterates through the list and then displays the indices of the items matching the user-selected text.
+            // Ensure to remove any break statements that may prevent your code from returning multiple matches.
+            for (int k = 0; k < stringArray3.Count; k++)
+            {
+                if (stringArray3[k].Contains(userInput3))
+                {
+                    Console.WriteLine("index " + k + " contains " + userInput3);
+                    duplicateList.Add(stringArray3[k]);
+                }
+            }
+            //Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.
+            //(You do not need to provide any additional chances for the user to enter text.)
+
+            if (duplicateList.Count == 0)
+            {
+                Console.WriteLine(userInput3 + " is not in the list.");
+                Console.Read();
+            }
+
+
+            // PART 6.
+            // 1. Create a list of strings that has at least two identical strings in the list.
+            List<string> stringList = new List<string>() { "string", "list", "list", "computer", "Headphones", "Tools", "Drill", "Remote", "Recepticle" };
+
+            //create empty list of duplicate words
+            List<string> uniqueList = new List<string>();
+            List<string> duplicatList = new List<string>();
+
+
+            // 2. Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list. 
+            foreach (string word in stringList)
+            {
+                //if unique list does not contain word, add word to unique list
+                if (!uniqueList.Contains(word))
+                {
+                    uniqueList.Add(word);
+                }
+                //otherwise, add word to duplicatList
+                else
+                {
+                    duplicatList.Add(word);
+                }
+            }
+            //print unique list
+            foreach (string word in uniqueList)
+            {
+                Console.WriteLine(word + " - this is unique");
+            }
+            //print duplicatList
+            foreach(string word in duplicatList)
+            {
+                Console.WriteLine(word + " - this is duplicate");
+            }
+
+            
         }
     }
 }
