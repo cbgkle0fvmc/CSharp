@@ -28,19 +28,13 @@ namespace arraySubmissionProject
                 //display the string of that index in the console
                 Console.WriteLine("The value of index " + userInput + " is: " + stringArray[userInput]);
             }
-            catch
+            catch (IndexOutOfRangeException)
             {
-                while (userInput > stringArray.Length)
-                {
-                    //if index is > array.length, user will be prompted to enter number less than array.length.
-                    Console.WriteLine("That index of this string array is: " + stringArray.Length + ". Please enter number between 0 and " + stringArray.Length);
-                    Console.WriteLine("Please enter an integer between 0 and 5.");
-                    userInput = Convert.ToInt32(Console.ReadLine());
-                    //display the string of that index in the console
-                    Console.WriteLine("The value of index " + userInput + " is: " + stringArray[userInput]);
-                }
-
-
+                Console.WriteLine("Invalid index. Please enter a number between 0 and " + (stringArray.Length-1));
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Input invalid. Please enter a valid integer.");
             }
 
             try
@@ -52,14 +46,13 @@ namespace arraySubmissionProject
                 Console.WriteLine("The value of index " + userInput2 + " is: " + intArray[userInput2]);
             }
 
-            catch
+            catch (IndexOutOfRangeException)
             {
-                //if index is > array.length, user will be prompted to enter number less than array.length.
-                Console.WriteLine("That index of this string array is: " + intArray.Length + ". Please enter number between 0 and " + intArray.Length);
-                Console.WriteLine("Please enter an integer between 0 and 5.");
-                userInput = Convert.ToInt32(Console.ReadLine());
-                //display the string of that index in the console
-                Console.WriteLine("The value of index " + userInput + " is: " + stringArray[userInput]);
+                Console.WriteLine("Invalid index. Please enter a number between 0 and " + (intArray.Length - 1));
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Input invalid. Please enter a valid integer.");
             }
 
             try
@@ -68,11 +61,13 @@ namespace arraySubmissionProject
                 userInput3 = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("The value of index: " + userInput3 + " is" + stringList[userInput3]);
             }
-            catch
+            catch (System.ArgumentOutOfRangeException)
             {
-                Console.WriteLine("Please enter number less than " + stringList.Count);
-                userInput3 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("The value of index: " + userInput3 + " is" + stringList[userInput3]);
+                Console.WriteLine("Invalid index. Please enter a number between 0 and " + (stringList.Count - 1));
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Input invalid. Please enter a valid integer.");
             }
 
         }
