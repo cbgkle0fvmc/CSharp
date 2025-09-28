@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\ConsoleApp Strings and Integers Assignment\ConsoleApp Strings and Integers Assignment\bin\Debug\ConsoleApp Strings and Integers Assignment.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\ConsoleApp Strings and Integers Assignment\ConsoleApp Strings and Integers Assignment\bin\Debug\ConsoleApp Strings and Integers Assignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\ConsoleApp Strings and Integers Assignment\ConsoleApp Strings and Integers Assignment\bin\Debug\ConsoleApp Strings and Integers Assignment.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\ConsoleApp Strings and Integers Assignment\ConsoleApp Strings and Integers Assignment\obj\Debug\ConsoleApp Strings and Integers Assignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\ConsoleApp Strings and Integers Assignment\ConsoleApp Strings and Integers Assignment\obj\Debug\ConsoleApp Strings and Integers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\ConsoleApp Strings and Integers Assignment\ConsoleApp Strings and Integers Assignment\obj\Debug\ConsoleApp Strings and Integers Assignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\ConsoleApp Strings and Integers Assignment\ConsoleApp Strings and Integers Assignment\obj\Debug\ConsoleApp Strings and Integers Assignment.pdb
