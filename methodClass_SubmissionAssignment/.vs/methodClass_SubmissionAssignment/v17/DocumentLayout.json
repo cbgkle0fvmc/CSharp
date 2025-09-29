@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\methodClass_SubmissionAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55134B-8780-4FBB-B837-BA3DE0E42EDC}|methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\methodclass_submissionassignment\\methodclass_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55134B-8780-4FBB-B837-BA3DE0E42EDC}|methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment.csproj|solutionrelative:methodclass_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55134B-8780-4FBB-B837-BA3DE0E42EDC}|methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\methodclass_submissionassignment\\methodclass_submissionassignment\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55134B-8780-4FBB-B837-BA3DE0E42EDC}|methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment.csproj|solutionrelative:methodclass_submissionassignment\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment\\Operator.cs",
+              "RelativeDocumentMoniker": "methodClass_SubmissionAssignment\\Operator.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment\\Operator.cs",
+              "RelativeToolTip": "methodClass_SubmissionAssignment\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:11:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "methodClass_SubmissionAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\methodClass_SubmissionAssignment\\methodClass_SubmissionAssignment\\Program.cs",
+              "RelativeToolTip": "methodClass_SubmissionAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:10:40.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
