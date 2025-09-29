@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Method_SubmissionAssignment\Method_SubmissionAssignment\bin\Debug\Method_SubmissionAssignment.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Method_SubmissionAssignment\Method_SubmissionAssignment\bin\Debug\Method_SubmissionAssignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Method_SubmissionAssignment\Method_SubmissionAssignment\bin\Debug\Method_SubmissionAssignment.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Method_SubmissionAssignment\Method_SubmissionAssignment\obj\Debug\Method_SubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Method_SubmissionAssignment\Method_SubmissionAssignment\obj\Debug\Method_SubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Method_SubmissionAssignment\Method_SubmissionAssignment\obj\Debug\Method_SubmissionAssignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Method_SubmissionAssignment\Method_SubmissionAssignment\obj\Debug\Method_SubmissionAssignment.pdb
