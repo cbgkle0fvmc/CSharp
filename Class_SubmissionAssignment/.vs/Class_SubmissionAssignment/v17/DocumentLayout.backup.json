@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Class_SubmissionAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F00284EA-90BF-4E8D-8028-273447DB80B2}|Class_SubmissionAssignment\\Class_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\class_submissionassignment\\class_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F00284EA-90BF-4E8D-8028-273447DB80B2}|Class_SubmissionAssignment\\Class_SubmissionAssignment.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Class_SubmissionAssignment\\class_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00284EA-90BF-4E8D-8028-273447DB80B2}|Class_SubmissionAssignment\\Class_SubmissionAssignment.csproj|solutionrelative:class_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00284EA-90BF-4E8D-8028-273447DB80B2}|Class_SubmissionAssignment\\Class_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\class_submissionassignment\\class_submissionassignment\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00284EA-90BF-4E8D-8028-273447DB80B2}|Class_SubmissionAssignment\\Class_SubmissionAssignment.csproj|solutionrelative:class_submissionassignment\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,25 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Class_SubmissionAssignment\\Class_SubmissionAssignment\\Program.cs",
               "RelativeDocumentMoniker": "Class_SubmissionAssignment\\Program.cs",
-              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Class_SubmissionAssignment\\Class_SubmissionAssignment\\Program.cs",
-              "RelativeToolTip": "Class_SubmissionAssignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Class_SubmissionAssignment\\Class_SubmissionAssignment\\Program.cs*",
+              "RelativeToolTip": "Class_SubmissionAssignment\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T01:39:46.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "divide.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Class_SubmissionAssignment\\Class_SubmissionAssignment\\divide.cs",
+              "RelativeDocumentMoniker": "Class_SubmissionAssignment\\divide.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Class_SubmissionAssignment\\Class_SubmissionAssignment\\divide.cs",
+              "RelativeToolTip": "Class_SubmissionAssignment\\divide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:40:42.197Z",
               "EditorCaption": ""
             }
           ]
