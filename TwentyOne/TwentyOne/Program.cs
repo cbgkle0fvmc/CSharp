@@ -11,6 +11,7 @@ namespace TwentyOne
         //void means it returns nothing
         static void Main(string[] args)
         {
+            Game game = new TwentyOneGame();
             Deck deck = new Deck();
             deck.Shuffle();
 
