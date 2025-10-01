@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Dealer.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Dealer.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Dealer.cs",
+              "RelativeToolTip": "TwentyOne\\Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:23:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Player.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Player.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Player.cs",
+              "RelativeToolTip": "TwentyOne\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:20:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
               "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T15:16:17.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Deck.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
@@ -59,33 +93,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T16:08:01.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Game.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Game.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Game.cs",
               "RelativeToolTip": "TwentyOne\\Game.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T15:08:09.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Card.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Card.cs",

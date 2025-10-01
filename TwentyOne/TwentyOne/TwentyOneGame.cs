@@ -8,9 +8,14 @@ namespace TwentyOne
 {
     internal class TwentyOneGame : Game
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+
+        public override void ListPlayers()
+        {
+            base.ListPlayers();
         }
     }
 }
