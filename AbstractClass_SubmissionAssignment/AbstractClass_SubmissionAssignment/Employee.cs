@@ -6,17 +6,23 @@ using System.Threading.Tasks;
 
 namespace AbstractClass_SubmissionAssignment
 {
-    // STEP 3.
-    // Create another class called Employee and have it inherit from the Person class.
-    public class Employee : Person
+    //STEP 2. Have your Employee class from the previous drill inherit that interface and implement the Quit()
+    //method in any way you choose.
+    public class Employee : Person, IQuittable
     {
-        // STEP 4. 
-        // Implement the SayName() method inside of the Employee class.
-        //Made Person abstract class so SayName could be implemented 
-        //override keyword to override abstract method in Person class
+        List<Employee> EmployeeList = new List<Employee>();
         public override void SayName()
         {
-                Console.WriteLine("Hello, " + firstName + " " + lastName);   
+            Console.WriteLine("Hello, " + firstName + " " + lastName);   
+            //Add employee to employee list when SayName function is called
+            EmployeeList.Add(this);
+        }
+
+        public void Quit()
+        {
+            //Remove employee from list when Quit is called
+            EmployeeList.Remove(this);
+            
         }
 
     }

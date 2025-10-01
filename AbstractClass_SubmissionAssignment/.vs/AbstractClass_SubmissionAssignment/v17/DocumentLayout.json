@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\abstractclass_submissionassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|solutionrelative:abstractclass_submissionassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\abstractclass_submissionassignment\\abstractclass_submissionassignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|solutionrelative:abstractclass_submissionassignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\abstractclass_submissionassignment\\abstractclass_submissionassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|solutionrelative:abstractclass_submissionassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\abstractclass_submissionassignment\\abstractclass_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\abstractclass_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|solutionrelative:abstractclass_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\abstractclass_submissionassignment\\abstractclass_submissionassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFBD3BBC-5A78-4A38-8ACC-01AA6FB43171}|AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment.csproj|solutionrelative:abstractclass_submissionassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +30,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment\\IQuittable.cs",
+              "RelativeDocumentMoniker": "AbstractClass_SubmissionAssignment\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment\\IQuittable.cs",
+              "RelativeToolTip": "AbstractClass_SubmissionAssignment\\IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:11:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment\\Employee.cs",
               "RelativeDocumentMoniker": "AbstractClass_SubmissionAssignment\\Employee.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment\\Employee.cs",
               "RelativeToolTip": "AbstractClass_SubmissionAssignment\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T23:54:15.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment\\Person.cs",
               "RelativeDocumentMoniker": "AbstractClass_SubmissionAssignment\\Person.cs",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\AbstractClass_SubmissionAssignment\\AbstractClass_SubmissionAssignment\\Program.cs",
               "RelativeDocumentMoniker": "AbstractClass_SubmissionAssignment\\Program.cs",
@@ -60,8 +77,7 @@
               "RelativeToolTip": "AbstractClass_SubmissionAssignment\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T23:50:23.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T23:50:23.262Z"
             }
           ]
         }
