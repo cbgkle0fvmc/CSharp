@@ -10,16 +10,7 @@ namespace ParsingEnums_SubmissionAssignment
     {
         // STEP 1.
         // Create an enum for the days of the week.
-        public enum DayOfWeek
-        {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
-        }
+
         
     }
 }

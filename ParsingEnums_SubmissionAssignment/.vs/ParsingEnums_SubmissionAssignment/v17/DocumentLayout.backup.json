@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{F5CCC74F-D905-492C-AEF1-DBAFED538F58}|ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment.csproj|solutionrelative:parsingenums_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CCC74F-D905-492C-AEF1-DBAFED538F58}|ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\parsingenums_submissionassignment\\parsingenums_submissionassignment\\daysofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5CCC74F-D905-492C-AEF1-DBAFED538F58}|ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\ParsingEnums_SubmissionAssignment\\parsingenums_submissionassignment\\daysofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5CCC74F-D905-492C-AEF1-DBAFED538F58}|ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment.csproj|solutionrelative:parsingenums_submissionassignment\\daysofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ParsingEnums_SubmissionAssignment\\DaysOfWeek.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment\\DaysOfWeek.cs",
               "RelativeToolTip": "ParsingEnums_SubmissionAssignment\\DaysOfWeek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:07:26.744Z",
               "EditorCaption": ""
@@ -39,9 +39,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment\\Program.cs",
               "RelativeDocumentMoniker": "ParsingEnums_SubmissionAssignment\\Program.cs",
-              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment\\Program.cs",
-              "RelativeToolTip": "ParsingEnums_SubmissionAssignment\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\ParsingEnums_SubmissionAssignment\\ParsingEnums_SubmissionAssignment\\Program.cs*",
+              "RelativeToolTip": "ParsingEnums_SubmissionAssignment\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:06:12.796Z",
               "EditorCaption": ""
