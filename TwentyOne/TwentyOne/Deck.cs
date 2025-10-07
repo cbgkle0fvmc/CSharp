@@ -14,28 +14,14 @@ namespace TwentyOne
         {
             //first thing is instantiate a empty list of cards 
             Cards = new List<Card>();
-            // deck of cards consists of 4 suits 
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            // deck of cards consists of faces 2-10 and jack, queen, king, ace
-            List<string> Faces = new List<string>()
+            for(int i = 0; i < 13; i++) //for loop each face
             {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
-
-            //loop through list of suits and faces, which will give a deck of cards
-
-            //NESTED FOR LOOP
-
-            foreach (string face in Faces)
-            {
-                foreach (string suit in  Suits)
+                for (int j=0; j < 4; j++) //for loop each suit
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
-                    Cards.Add(card);
-                    
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
+                    Cards.Add(card);      
                 }
             }
 

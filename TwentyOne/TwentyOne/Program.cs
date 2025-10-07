@@ -11,14 +11,11 @@ namespace TwentyOne
         //void means it returns nothing
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Josh";
-            game += player;
-            game -= player;
+
+
             Deck deck = new Deck();
             deck.Shuffle();
+
 
             foreach (Card card in deck.Cards)
             {
@@ -28,6 +25,7 @@ namespace TwentyOne
             Console.ReadLine();
             
         }
+        
         
     }
 }
