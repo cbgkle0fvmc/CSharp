@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Card
+    public struct Card
     {
         //constructor : values assigned to object upon creation 
         //the constructor method name is alwaus the same as the Class it is in

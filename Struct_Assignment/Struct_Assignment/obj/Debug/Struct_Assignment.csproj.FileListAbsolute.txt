@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Struct_Assignment\Struct_Assignment\bin\Debug\Struct_Assignment.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Struct_Assignment\Struct_Assignment\obj\Debug\Struct_Assignment.pdb

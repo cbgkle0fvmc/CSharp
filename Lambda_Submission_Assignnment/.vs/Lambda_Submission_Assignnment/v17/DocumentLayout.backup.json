@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Lambda_Submission_Assignnment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C77F8-C800-4BE2-8D04-4351897183AC}|Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\lambda_submission_assignnment\\lambda_submission_assignnment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C77F8-C800-4BE2-8D04-4351897183AC}|Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment.csproj|solutionrelative:lambda_submission_assignnment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C77F8-C800-4BE2-8D04-4351897183AC}|Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\lambda_submission_assignnment\\lambda_submission_assignnment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C77F8-C800-4BE2-8D04-4351897183AC}|Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment.csproj|solutionrelative:lambda_submission_assignnment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda_Submission_Assignnment\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment\\Program.cs",
+              "RelativeToolTip": "Lambda_Submission_Assignnment\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:00:35.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment\\Employee.cs",
+              "RelativeDocumentMoniker": "Lambda_Submission_Assignnment\\Employee.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Lambda_Submission_Assignnment\\Lambda_Submission_Assignnment\\Employee.cs",
+              "RelativeToolTip": "Lambda_Submission_Assignnment\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:02:13.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

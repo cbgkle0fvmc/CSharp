@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Lambda_Submission_Assignnment\Lambda_Submission_Assignnment\bin\Debug\Lambda_Submission_Assignnment.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Lambda_Submission_Assignnment\Lambda_Submission_Assignnment\bin\Debug\Lambda_Submission_Assignnment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Lambda_Submission_Assignnment\Lambda_Submission_Assignnment\bin\Debug\Lambda_Submission_Assignnment.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Lambda_Submission_Assignnment\Lambda_Submission_Assignnment\obj\Debug\Lambda_Submission_Assignnment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Lambda_Submission_Assignnment\Lambda_Submission_Assignnment\obj\Debug\Lambda_Submission_Assignnment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Lambda_Submission_Assignnment\Lambda_Submission_Assignnment\obj\Debug\Lambda_Submission_Assignnment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\Lambda_Submission_Assignnment\Lambda_Submission_Assignnment\obj\Debug\Lambda_Submission_Assignnment.pdb
