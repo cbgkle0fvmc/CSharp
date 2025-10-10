@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\DateTime_SubmissionAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7670EB2-6555-4728-97B3-4400A6AC7D26}|DateTime_SubmissionAssignment\\DateTime_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\datetime_submissionassignment\\datetime_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7670EB2-6555-4728-97B3-4400A6AC7D26}|DateTime_SubmissionAssignment\\DateTime_SubmissionAssignment.csproj|solutionrelative:datetime_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 922,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\DateTime_SubmissionAssignment\\DateTime_SubmissionAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "DateTime_SubmissionAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\DateTime_SubmissionAssignment\\DateTime_SubmissionAssignment\\Program.cs",
+              "RelativeToolTip": "DateTime_SubmissionAssignment\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:41:34.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

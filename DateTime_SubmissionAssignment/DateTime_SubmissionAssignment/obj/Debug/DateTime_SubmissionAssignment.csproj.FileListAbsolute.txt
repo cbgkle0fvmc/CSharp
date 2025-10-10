@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\DateTime_SubmissionAssignment\DateTime_SubmissionAssignment\bin\Debug\DateTime_SubmissionAssignment.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\DateTime_SubmissionAssignment\DateTime_SubmissionAssignment\bin\Debug\DateTime_SubmissionAssignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\DateTime_SubmissionAssignment\DateTime_SubmissionAssignment\bin\Debug\DateTime_SubmissionAssignment.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\DateTime_SubmissionAssignment\DateTime_SubmissionAssignment\obj\Debug\DateTime_SubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\DateTime_SubmissionAssignment\DateTime_SubmissionAssignment\obj\Debug\DateTime_SubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\DateTime_SubmissionAssignment\DateTime_SubmissionAssignment\obj\Debug\DateTime_SubmissionAssignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\DateTime_SubmissionAssignment\DateTime_SubmissionAssignment\obj\Debug\DateTime_SubmissionAssignment.pdb
