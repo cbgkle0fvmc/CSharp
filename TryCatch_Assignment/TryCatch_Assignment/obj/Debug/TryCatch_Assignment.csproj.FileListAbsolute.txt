@@ -1,0 +1,7 @@
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\TryCatch_Assignment\TryCatch_Assignment\bin\Debug\TryCatch_Assignment.exe.config
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\TryCatch_Assignment\TryCatch_Assignment\bin\Debug\TryCatch_Assignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\TryCatch_Assignment\TryCatch_Assignment\bin\Debug\TryCatch_Assignment.pdb
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\TryCatch_Assignment\TryCatch_Assignment\obj\Debug\TryCatch_Assignment.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\TryCatch_Assignment\TryCatch_Assignment\obj\Debug\TryCatch_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\TryCatch_Assignment\TryCatch_Assignment\obj\Debug\TryCatch_Assignment.exe
+C:\Users\cordo\OneDrive\Documents\GitHub\CSharp\TryCatch_Assignment\TryCatch_Assignment\obj\Debug\TryCatch_Assignment.pdb

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61DBECBF-9417-42F0-9B9A-DE80881FBB78}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|solutionrelative:casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA94CCF-904B-4802-BBDB-6A6F17B1BAC6}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 922,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FraudException.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeDocumentMoniker": "Casino\\FraudException.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeToolTip": "Casino\\FraudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:12:51.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dealer.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\Casino\\Dealer.cs",
               "RelativeDocumentMoniker": "Casino\\Dealer.cs",
@@ -38,31 +55,30 @@
               "RelativeToolTip": "Casino\\Dealer.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T14:57:38.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T14:57:38.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\Casino\\Player.cs",
               "RelativeDocumentMoniker": "Casino\\Player.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\Casino\\Player.cs",
               "RelativeToolTip": "Casino\\Player.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T14:42:35.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\Casino\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\Casino\\TwentyOneGame.cs",
               "RelativeToolTip": "Casino\\TwentyOneGame.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T22:06:41.565Z",
               "EditorCaption": ""
@@ -75,7 +91,7 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T21:53:38.003Z",
               "EditorCaption": ""

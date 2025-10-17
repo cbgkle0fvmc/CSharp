@@ -20,6 +20,10 @@ namespace Constructor_SubmissionAssignment
             // Create a variable using the keyword “var.”
             var flowline_PAHH_SP = 250;
 
+           //
+            Alarms flowLine_alarm_PAHH = new Alarms(flowline_alarm, flowline_PAHH_SP);
+            Alarms flowLine_Alarm_noSP = new Alarms(flowline_alarm);
+
         }
 
             // STEP 3.
@@ -31,7 +35,7 @@ namespace Constructor_SubmissionAssignment
             }
             public Alarms(string component, int SP)
             {
-                //example of overloading
+                Console.WriteLine(component + " " + "Setpoint: " + SP);
             }
 
         }
