@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Constructor_SubmissionAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1456DAB8-DAD4-47EE-84FD-989D8C1B381D}|Constructor_SubmissionAssignment\\Constructor_SubmissionAssignment.csproj|c:\\users\\cordo\\onedrive\\documents\\github\\csharp\\constructor_submissionassignment\\constructor_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1456DAB8-DAD4-47EE-84FD-989D8C1B381D}|Constructor_SubmissionAssignment\\Constructor_SubmissionAssignment.csproj|solutionrelative:constructor_submissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 922,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Constructor_SubmissionAssignment\\Constructor_SubmissionAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Constructor_SubmissionAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\cordo\\OneDrive\\Documents\\GitHub\\CSharp\\Constructor_SubmissionAssignment\\Constructor_SubmissionAssignment\\Program.cs*",
+              "RelativeToolTip": "Constructor_SubmissionAssignment\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:10:41.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
